@@ -64,3 +64,12 @@ void ULListStr::clear()
   tail_ = NULL;
   size_ = 0;
 }
+
+
+void ULListStr::push_back(const std::string& val){
+  
+}
+
+void ULListStr::push_front(const std::string& val){
+
+}
